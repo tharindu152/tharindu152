@@ -14,8 +14,6 @@ You can click the Preview link to take a look at your changes.
 
 <h1 align="left">Hi 👋, I'm Tharindu Thennakoon</h1>
 
-<img align="center" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
-
 ## 🚀 About Me
 
 🎓 I'm a dedicated software developer with expertise in full-stack web applications, particularly the Java Spring stack and MERN stack. I'm currently pursuing an MSc in Information Technology at the Informatics Institute of Technology (IIT). With a blend of academic knowledge and hands-on experience, I've acquired the competencies needed for a successful software engineering career, committed to delivering high-quality solutions and continuously improving my skills to meet industry demands.
